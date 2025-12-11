@@ -99,28 +99,19 @@ const mengheang = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Heang-Dev">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heang-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/Heang-Dev">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Heang-Dev&theme=tokyonight&hide_border=true&background=0D1117"/>
-  </a>
+  <img src="./github-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Heang-Dev">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Heang-Dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/Heang-Dev">
-    <img src="https://github-trophies.vercel.app/?username=Heang-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-  </a>
+  <img src="./achievements.svg" alt="GitHub Achievements" />
 </p>
 
 ---
