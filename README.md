@@ -103,7 +103,7 @@ const mengheang = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Heang-Dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="./streak.svg" alt="GitHub Streak & Habits"/>
 </p>
 
 ---
