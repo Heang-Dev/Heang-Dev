@@ -99,12 +99,18 @@ const mengheang = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heang-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Heang-Dev&theme=tokyonight&hide_border=true&background=0D1117" />
+  <a href="https://github.com/Heang-Dev">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heang-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+  </a>
+  <a href="https://github.com/Heang-Dev">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Heang-Dev&theme=tokyonight&hide_border=true&background=0D1117"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/Heang-Dev">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800"/>
+  </a>
 </p>
 
 ---
@@ -112,7 +118,9 @@ const mengheang = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Heang-Dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <a href="https://github.com/Heang-Dev">
+    <img src="https://github-trophies.vercel.app/?username=Heang-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  </a>
 </p>
 
 ---
