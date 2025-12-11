@@ -98,21 +98,37 @@ const mengheang = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heang-Dev&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Heang-Dev&theme=radical&hide_border=true" height="180"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Heang-Dev&show_icons=true&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Heang-Dev&show_icons=true&theme=default&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heang-Dev&show_icons=true&theme=dark&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Heang-Dev&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Heang-Dev&theme=default&hide_border=true" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=Heang-Dev&theme=dark&hide_border=true" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=radical&hide_border=true" height="180"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=default&hide_border=true" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=dark&hide_border=true" />
+  </picture>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Heang-Dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Heang-Dev&theme=darkhub&no-frame=true&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Heang-Dev&theme=flat&no-frame=true&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Heang-Dev&theme=darkhub&no-frame=true&column=7" />
+  </picture>
 </p>
 
 ---
