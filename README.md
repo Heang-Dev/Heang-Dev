@@ -98,20 +98,14 @@ const mengheang = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Heang-Dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heang-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Heang-Dev">
-    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Heang-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Heang-Dev&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Heang-Dev&theme=radical&hide_border=true" height="180"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Heang-Dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heang-Dev&layout=compact&theme=radical&hide_border=true" height="180"/>
+</div>
 
 ---
 
