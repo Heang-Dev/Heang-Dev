@@ -108,10 +108,10 @@ const mengheang = {
 
 ---
 
-## 🏆 GitHub Achievements
+## ⭐ Featured Repositories
 
 <p align="center">
-  <img src="./achievements.svg" alt="GitHub Achievements" />
+  <img src="./achievements.svg" alt="Featured Repositories" />
 </p>
 
 ---
