@@ -108,10 +108,10 @@ const mengheang = {
 
 ---
 
-## ⭐ Featured Repositories
+## 💡 Topics & Skills
 
 <p align="center">
-  <img src="./achievements.svg" alt="Featured Repositories" />
+  <img src="./achievements.svg" alt="Topics & Skills" />
 </p>
 
 ---
