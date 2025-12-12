@@ -52,7 +52,7 @@ jobs:
           committer_branch: main
           committer_message: "chore: update isocalendar"
 
-      - name: Generate Topics & Skills
+      - name: Generate Recent Activity
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -60,14 +60,15 @@ jobs:
           template: classic
           base: ""
 
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 16
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
 
           filename: achievements.svg
           output_action: commit
           committer_branch: main
-          committer_message: "chore: update topics"
+          committer_message: "chore: update activity"
 
       - name: Generate Streak Calendar
         uses: lowlighter/metrics@latest

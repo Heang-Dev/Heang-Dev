@@ -108,10 +108,10 @@ const mengheang = {
 
 ---
 
-## 💡 Topics & Skills
+## 📌 Recent Activity
 
 <p align="center">
-  <img src="./achievements.svg" alt="Topics & Skills" />
+  <img src="./achievements.svg" alt="Recent Activity" />
 </p>
 
 ---
