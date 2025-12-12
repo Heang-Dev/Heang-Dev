@@ -108,14 +108,6 @@ const mengheang = {
 
 ---
 
-## 📌 Recent Activity
-
-<p align="center">
-  <img src="./achievements.svg" alt="Recent Activity" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
